@@ -1,4 +1,3 @@
-# TotalImage
 **TotalImage** is a free and open source disk image editor licensed under the MIT license. For more information, see the `LICENSE` file. It is written in C# and uses Windows Forms for the UI.
 
 Our goal is to create a tool that:

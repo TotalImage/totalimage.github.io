@@ -1,1 +1,8 @@
+title: TotalImage
+description: Free and open source disk image editor
 theme: jekyll-theme-modernist
+
+github:
+  is_project_page: true
+  repository_name: TotalImage
+  repository_url: https://github.com/TotalImage/TotalImage
